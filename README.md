@@ -20,10 +20,13 @@ Stock OneUI experience: Keep the smooth, minimal OneUI aesthetic without sacrifi
 Installation Instructions:
 
 1. Flash the module using Magisk Manager.
+   
 2. Reboot your device.
 
 Enjoy the OneUI Gallery app on your phone!
 
 Note: This module is only supported on devices running Android 16 QPR 1 & 2. Flashing on other versions may cause issues.
+
 Original Work And Credit - https://github.com/AyraHikari/SamsungGalleryPort
+
 App Owner - AyraHikari (https://github.com/AyraHikari)
